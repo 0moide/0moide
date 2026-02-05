@@ -1,16 +1,17 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Header</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+Backend Developer
 
-<div class="header">
-    <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist !</p>
-</div>
+Java • Python • Databases • C/C++ • Scala
 
-</body>
-</html>
+🛠 Stack
+
+    Backend: Java, Python, Scala
+
+    Systems: C, C++
+
+    Databases: SQL & NoSQL
+
+    Tools: Spring, Django, Docker, Kafka, Git  
+
+📫 Contact
+
+    Email: misha415@list.ru
