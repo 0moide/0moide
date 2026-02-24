@@ -14,6 +14,7 @@
     Databases: SQL & NoSQL
 
     Tools: Spring, Django, Docker, Kafka, Git  
+    Network security: Knowledge of TCP/IP, DNS, HTTP/S protocols, network security analysis, working with sniffers (Wireshark/tcpdump) and vulnerability scanners (Nmap).
 
 📫 Contact
 
