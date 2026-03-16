@@ -11,9 +11,9 @@
 
     Systems: C, C++
 
-    Databases: SQL & NoSQL
+    Databases: SQL
 
-    Tools: Spring, Django, Docker, Kafka, Git  
+    Tools: Spring, Docker, Kafka, Git  
 
 🌐 Network security 
 
